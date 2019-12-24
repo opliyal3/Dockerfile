@@ -3,5 +3,5 @@
     docker ubuntu update toooooo slow
     so change to taiwan mirror
     
-    docker 裡面的 ubuntu 鏡像update太慢了
-    把它改成台灣國網的吧 
+    docker 裡面的 ubuntu 鏡像 update 太慢了
+    把它用台灣的取代掉吧 
